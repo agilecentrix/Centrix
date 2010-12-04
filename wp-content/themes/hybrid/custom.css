@@ -1,0 +1,58 @@
+.tabbed-navigation .current-menu-item a { background :#e5ecf3; color :#1b5790; }
+.loggedout-navigation li.reg-item {min-width: 120px;}
+.loading {background-image: url(../../images/loading.gif); width: 31px; height: 31px; background-position: center; background-repeat: no-repeat;}
+
+div[role=login] .error p , div[role=register] .error p , div[role=user-account] .error p{width: 246px;}
+
+div.vote {
+    background-image: url(http://cdn.dzone.com/links/images/std/vwidget2/vwidget2_bkgd_off.gif);
+    background-repeat: no-repeat;
+    cursor: pointer;
+    float: left;
+    height: 50px;
+    margin-right: 0.5em;
+    margin-top: 0.25em;
+    position: relative;
+    width: 50px;
+    z-index: 10000;
+}
+a.upcount:hover, a.upcount.on:hover {
+    background-image: url(http://cdn.dzone.com/links/images/std/vwidget2/voteup-hover.gif);
+    color: #396;
+    text-decoration: none;
+}
+a.upcount {
+    background-image: url(http://cdn.dzone.com/links/images/std/vwidget2/voteup-off.gif);
+    background-position: 5px 7px;
+    background-repeat: no-repeat;
+    color: #6BB38F;
+    display: block;
+    font-size: 124%;
+    font-weight: bold;
+    height: 25px;
+    outline: none;
+    padding-left: 23px;
+    padding-top: 2px;
+    text-align: left;
+    width: 50px;
+}
+a.downcount:hover, a.downcount.on:hover {
+    background-image: url(http://cdn.dzone.com/links/images/std/vwidget2/votedown-hover.gif);
+    color: #B3726B;
+    text-decoration: none;
+}
+a.downcount {
+    background-image: url(http://cdn.dzone.com/links/images/std/vwidget2/votedown-off.gif);
+    background-position: 5px 6px;
+    background-repeat: no-repeat;
+    color: #D98A82;
+    display: block;
+    font-size: 124%;
+    font-weight: bold;
+    height: 25px;
+    outline: none;
+    padding-left: 23px;
+    padding-top: 2px;
+    text-align: left;
+    width: 50px;
+}

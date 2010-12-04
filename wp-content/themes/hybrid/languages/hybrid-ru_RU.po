@@ -1,0 +1,1427 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hybrid Theme Framework\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-01-04 10:34+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Eldar <eldark88@gmail.com>\n"
+"Language-Team:  <justin@justintadlock.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:14
+msgid "Not Found"
+msgstr "Не найдено"
+
+#: 404.php:20
+#, php-format
+msgid "You tried going to %1$s, and it doesn't exist. All is not lost! You can search for what you're looking for."
+msgstr "Вы обратились к %1$s, но там ничего нет. Вы можете поискать то что вам нужно."
+
+#: 404.php:35
+msgid "Possibly Related"
+msgstr "Похожие"
+
+#: application.php:13
+#: attachment.php:13
+#: audio.php:13
+#: blog.php:51
+msgid "Continue reading"
+msgstr "Продолжить чтение"
+
+#: application.php:17
+#: attachment.php:17
+#: audio.php:17
+#, php-format
+msgid "Download &quot;%1$s&quot;"
+msgstr "Скачать &quot;%1$s&quot;"
+
+#: application.php:20
+#: attachment.php:20
+#: audio.php:20
+#: authors.php:48
+#: biography.php:65
+#: blog.php:20
+#: blog.php:52
+#: bookmarks.php:46
+#: categories.php:32
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: application.php:24
+#: archive.php:27
+#: archives.php:45
+#: attachment.php:24
+#: audio.php:24
+#: author.php:35
+#: authors.php:52
+#: biography.php:69
+#: blog.php:47
+#: bookmarks.php:50
+#: categories.php:36
+#: category.php:25
+#: comments-popup.php:94
+#: date.php:39
+msgid "Edit"
+msgstr "Редактировать"
+
+#: application.php:39
+msgid "Sorry, no applications matched your criteria."
+msgstr "Ничего отвечающего вашим критериям не найдено."
+
+#: archive.php:9
+#: date.php:20
+#, php-format
+msgid "You are browsing the archive for %1$s."
+msgstr "Вы просматриваете архив для %1$s."
+
+#: archive.php:24
+#: author.php:32
+#: blog.php:44
+#: category.php:22
+#: date.php:36
+msgid "By"
+msgstr "Автор"
+
+#: archive.php:25
+#: author.php:33
+#: blog.php:45
+#: category.php:23
+#: date.php:37
+msgid "on"
+msgstr "на"
+
+#: archive.php:26
+#: author.php:34
+#: blog.php:46
+#: category.php:24
+#: comments-popup.php:87
+#: date.php:38
+msgid "l, F jS, Y, g:i a"
+msgstr "l, F jS, Y, g:i a"
+
+#: archive.php:26
+#: author.php:34
+#: blog.php:46
+#: category.php:24
+#: date.php:38
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: archive.php:35
+#: author.php:43
+#: blog.php:56
+#: category.php:33
+#: date.php:47
+msgid "Posted in"
+msgstr "Опубликовано в "
+
+#: archive.php:36
+#: author.php:44
+#: blog.php:57
+#: category.php:34
+#: date.php:48
+msgid "Tagged"
+msgstr "Тэги"
+
+#: archive.php:37
+#: author.php:45
+#: blog.php:58
+#: category.php:35
+#: date.php:49
+msgid "Leave a response"
+msgstr "Оставить отзыв"
+
+#: archive.php:37
+#: author.php:45
+#: blog.php:58
+#: category.php:35
+#: date.php:49
+msgid "1 Response"
+msgstr "1 отзыв"
+
+#: archive.php:37
+#: author.php:45
+#: blog.php:58
+#: category.php:35
+#: date.php:49
+msgid "% Responses"
+msgstr "% отзывов"
+
+#: archive.php:45
+msgid "Sorry, there are no posts in this archive."
+msgstr "В этом архиве нет статей."
+
+#: archives.php:30
+msgid "Archives by category"
+msgstr "Архив по категориям"
+
+#: archives.php:36
+msgid "Archives by month"
+msgstr "Архив по месяцам"
+
+#: archives.php:57
+#: authors.php:64
+#: biography.php:81
+#: blog.php:69
+#: bookmarks.php:62
+#: categories.php:48
+msgid "Sorry, no page matched your criteria."
+msgstr "Извините, нет страниц, отвечающих вашим критериям."
+
+#: attachment.php:39
+msgid "Sorry, no attachments matched your criteria."
+msgstr "Не найдено вложении по вашим критериям."
+
+#: audio.php:39
+msgid "Sorry, no audio files matched your criteria."
+msgstr "Не найдено аудио файлов по вашим критериям."
+
+#: author.php:17
+#: authors.php:39
+#: biography.php:39
+#, php-format
+msgid "Send an email to %1$s"
+msgstr "Отправить e-mail %1$s"
+
+#: author.php:17
+#: authors.php:39
+#, php-format
+msgid "Email %1$s"
+msgstr "E-mail %1$s"
+
+#: author.php:54
+#, php-format
+msgid "%1$s hasn't written any posts yet."
+msgstr "%1$s не написал ни одного поста."
+
+#: biography.php:35
+msgid "Nickname:"
+msgstr "Ник:"
+
+#: biography.php:39
+msgid "Email:"
+msgstr "E-mail:"
+
+#: biography.php:43
+msgid "Website:"
+msgstr "Сайт:"
+
+#: biography.php:47
+msgid "AIM:"
+msgstr "AIM:"
+
+#: biography.php:47
+#: biography.php:51
+#: biography.php:55
+#, php-format
+msgid "IM with %1$s"
+msgstr "IM с %1$s"
+
+#: biography.php:51
+msgid "Jabber:"
+msgstr "Jabber: "
+
+#: biography.php:55
+msgid "Yahoo:"
+msgstr "Yahoo:"
+
+#: category.php:44
+#, php-format
+msgid "Sorry, there are no posts in the %1$s category."
+msgstr "Извините, в категории %1$s нет постов."
+
+#: comments-popup.php:50
+#: comments.php:3
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Пожалуйста не загружайте эту страницу напрямую. Спасибо."
+
+#: comments-popup.php:69
+#: comments.php:19
+msgid "No Responses"
+msgstr "Нет отзывов"
+
+#: comments-popup.php:69
+#: comments.php:19
+msgid "One Response"
+msgstr "Один отзыв"
+
+#: comments-popup.php:69
+#: comments.php:19
+msgid "Responses"
+msgstr "Отзывы"
+
+#: comments-popup.php:70
+#: comments.php:20
+msgid "to"
+msgstr "к"
+
+#: comments-popup.php:88
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: comments-popup.php:92
+msgid "Permalink to comment"
+msgstr "Постоянная ссылка на комментарий"
+
+#: comments-popup.php:92
+msgid "Permalink"
+msgstr "Постоянная ссылка"
+
+#: comments-popup.php:97
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации"
+
+#: comments-popup.php:121
+#: comments.php:46
+#, php-format
+msgid "Comments are closed, but <a href=\"%1$s\" title=\"Trackback URL for this post\">trackbacks</a> and pingbacks are open."
+msgstr "Комментирование закрыто, но <a href=\"%1$s\" title=\"Trackback URL for this post\">трэкбэки</a> открыты."
+
+#: comments-popup.php:127
+#: comments.php:52
+msgid "Comments are closed."
+msgstr "Комментирование закрыто."
+
+#: comments-popup.php:139
+#: comments.php:64
+msgid "Leave a Reply"
+msgstr "Оставить ответ"
+
+#: comments-popup.php:145
+#: comments.php:74
+#, php-format
+msgid "You must be <a href=\"%1$s\" title=\"Log in\">logged in</a> to post a comment."
+msgstr "Вы должны  <a href=\"%1$s\" title=\"Log in\">войти</a> чтобы оставить комментарий."
+
+#: comments-popup.php:155
+#: comments.php:84
+#, php-format
+msgid "Logged in as <a href=\"%1$s\" title=\"%2$s\">%2$s</a>."
+msgstr "Вошли как <a href=\"%1$s\" title=\"%2$s\">%2$s</a>."
+
+#: comments-popup.php:155
+#: comments.php:84
+msgid "Log out of this account"
+msgstr "Выйти из этой учетной записи"
+
+#: comments-popup.php:155
+#: comments.php:84
+msgid "Logout &raquo;"
+msgstr "Выйти &raquo;"
+
+#: comments-popup.php:161
+#: comments.php:90
+msgid "Name"
+msgstr "Имя"
+
+#: comments-popup.php:161
+#: comments-popup.php:166
+#: comments.php:90
+#: comments.php:95
+msgid "*"
+msgstr "*"
+
+#: comments-popup.php:166
+#: comments.php:95
+msgid "Email"
+msgstr "E-mail"
+
+#: comments-popup.php:171
+#: comments.php:100
+msgid "Website"
+msgstr "Сайт"
+
+#: comments-popup.php:178
+#: comments.php:107
+msgid "Comment"
+msgstr "Комментарий"
+
+#: comments-popup.php:183
+#: comments.php:112
+msgid "Submit"
+msgstr "Отправить"
+
+#: comments-popup.php:184
+#: comments.php:113
+msgid "Reset"
+msgstr "Сбросить"
+
+#: comments.php:6
+msgid "Password Protected"
+msgstr "Защищено паролем"
+
+#: comments.php:7
+msgid "Enter the password to view comments."
+msgstr "Введите пароль для просмотра комментариев"
+
+#: comments.php:64
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Оставить отзыв к %s"
+
+#: comments.php:68
+msgid "Click here to cancel reply."
+msgstr "Кликните здесь для отмены ответа."
+
+#: date.php:6
+msgid "F jS, Y"
+msgstr "F jS, Y"
+
+#: date.php:7
+#, php-format
+msgid "Week %1$s of %2$s"
+msgstr "Неделя %1$s из %2$s"
+
+#: date.php:7
+#: date.php:18
+msgid "W"
+msgstr "W"
+
+#: date.php:7
+#: date.php:9
+#: date.php:18
+msgid "Y"
+msgstr "Y"
+
+#: date.php:18
+#, php-format
+msgid "You are browsing the archive for week %1$s of %2$s."
+msgstr "Вы просматриваете архив для недели %1$s из %2$s."
+
+#: date.php:58
+#, php-format
+msgid "Sorry, there are no posts for %1$s."
+msgstr "Нет статей для %1$s."
+
+#: home.php:35
+#: search.php:45
+#: single.php:41
+msgid "Sorry, no posts matched your criteria."
+msgstr "Нет статей, отвечающих вашим критериям,"
+
+#: image.php:40
+msgid "Sorry, no images matched your criteria."
+msgstr "Нет изображений, отвечающих вашим критериям."
+
+#: log-in.php:32
+#, php-format
+msgid "You are currently logged in as <a href=\"%1$s\" title=\"%2$s\">%2$s</a>."
+msgstr "Вы зашли как <a href=\"%1$s\" title=\"%2$s\">%2$s</a>."
+
+#: log-in.php:40
+#, php-format
+msgid "You have successfully logged in as <a href=\"%1$s\" title=\"%2$s\">%2$s</a>."
+msgstr "Вы успешно зашли как <a href=\"%1$s\" title=\"%2$s\">%2$s</a>."
+
+#: log-in.php:53
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: log-in.php:58
+msgid "Password"
+msgstr "Пароль"
+
+#: log-in.php:63
+msgid "Log in"
+msgstr "Войти"
+
+#: log-in.php:65
+msgid "Remember me"
+msgstr "Запомнить меня"
+
+#: logged-in.php:49
+#, php-format
+msgid "You must be <a href=\"%1$s\" title=\"Log in\">logged in</a> to view the content of this page."
+msgstr "Вы должны <a href=\"%1$s\" title=\"Войти\">войти</a> для просмотра содержимого этой страницы."
+
+#: logged-in.php:52
+#, php-format
+msgid "If you're not currently a member, please take a moment to <a href=\"%1$s\" title=\"Register\">register</a>."
+msgstr "Вы не являетесь зарегистрированным пользователем, уделите время м <a href=\"%1$s\" title=\"Register\">зарегистрируйтесь</a>."
+
+#: quick-post.php:23
+msgid "You must enter a post title."
+msgstr "Необходимо ввести заголовок."
+
+#: quick-post.php:27
+msgid "You must write something."
+msgstr "Вы должны что-нибудь написать."
+
+#: quick-post.php:58
+msgid "Title"
+msgstr "Заголовок"
+
+#: quick-post.php:63
+msgid "Write"
+msgstr "Написать"
+
+#: quick-post.php:68
+msgid "Tags"
+msgstr "Ключевые слова"
+
+#: quick-post.php:73
+msgid "Publish"
+msgstr "Опубликовать"
+
+#: quick-post.php:87
+msgid "You don't have the appropriate capabilities to publish posts."
+msgstr "У вас не достаточно прав для написания статей."
+
+#: quick-post.php:93
+#, php-format
+msgid "You must be <a href=\"%1$s\" title=\"Log in\">logged in</a> with appropriate user capabilities to publish posts."
+msgstr "Вы должны <a href=\"%1$s\" title=\"Войти\">войти</a> с соотвествующими правами для того чтобы писать статьи."
+
+#: register.php:28
+msgid "A username is required for registration."
+msgstr "Для регистрации необходимо имя пользователя."
+
+#: register.php:30
+msgid "You must enter an email address."
+msgstr "Вы должны ввести адрес электронной почты."
+
+#: register.php:32
+msgid "You must enter a password."
+msgstr "Вы должны ввести пароль."
+
+#: register.php:34
+msgid "You must enter your password twice."
+msgstr "Вы должны ввести пароль дважды."
+
+#: register.php:36
+msgid "You must enter the same password twice."
+msgstr "Вы должны ввести один и тот же пароль дважды."
+
+#: register.php:38
+msgid "User registration failed.  Please try again."
+msgstr "Ошибка регистрации. Попробуйте еще раз."
+
+#: register.php:58
+#, php-format
+msgid "You are logged in as <a href=\"%1$s\" title=\"%2$s\">%2$s</a>.  You don't need another account."
+msgstr "Вы вошли как <a href=\"%1$s\" title=\"%2$s\">%2$s</a>. Вам не нужен еще один аккаунт."
+
+#: register.php:66
+#, php-format
+msgid "A user account for %1$s has been created."
+msgstr "Создан аккаунт для пользователя %1$s."
+
+#: register.php:68
+#, php-format
+msgid "Thank you for registering, %1$s."
+msgstr "%1$s, спасибо за регистрацию."
+
+#: register.php:82
+msgid "Users can register themselves or you can manually create users here."
+msgstr "Пользователи могут регистрироваться самостоятельно или вы можете добавить их вручную здесь."
+
+#: register.php:84
+msgid "Users cannot currently register themselves, but you can manually create users here."
+msgstr "Сейчас пользователи не могут регистрироваться самостоятельно, но вы можете добавить их вручную здесь."
+
+#: register.php:92
+msgid "Required fields are marked <span class=\"required\">*</span>"
+msgstr "Обязательные поля отмечены <span class=\"required\">*</span>"
+
+#: register.php:95
+msgid "Username *"
+msgstr "Имя пользователя <span class=\"required\">*</span>"
+
+#: register.php:99
+msgid "First Name"
+msgstr "Имя"
+
+#: register.php:103
+msgid "Last Name"
+msgstr "Фамилия"
+
+#: register.php:107
+msgid "E-mail *"
+msgstr "E-mail <span class=\"required\">*</span>"
+
+#: register.php:117
+msgid "Password *"
+msgstr "Пароль <span class=\"required\">*</span>"
+
+#: register.php:121
+msgid "Repeat Password *"
+msgstr "Пароль повторно <span class=\"required\">*</span>"
+
+#: register.php:127
+msgid "Biographical Information"
+msgstr "Что-нибудь из биографии"
+
+#: register.php:133
+msgid "Add User"
+msgstr "Добавить пользователя"
+
+#: register.php:133
+msgid "Register"
+msgstr "Зарегистрировать"
+
+#: search.php:8
+#, php-format
+msgid "You are browsing the search results for &quot;%1$s&quot;"
+msgstr "Вы просматриваете результаты поиска для &quot;%1$s&quot;"
+
+#: search.php:45
+msgid "Maybe you'd like to try inputting different search terms."
+msgstr "Может вам стоит запустить новый поиск с другими параметрами."
+
+#: tag.php:8
+#, php-format
+msgid "You are browsing the %1$s tag archive."
+msgstr "Вы просматриваете архив к ключевому слову %1$s."
+
+#: tag.php:44
+#, php-format
+msgid "Sorry, there are no posts tagged %1$s."
+msgstr "Извините, нет постов с ключеывм словом &quot;%1$s&quot;."
+
+#: text.php:39
+msgid "Sorry, no documents matched your criteria."
+msgstr "Нет документов, отвечающих вашим критериям."
+
+#: video.php:39
+msgid "Sorry, no videos matched your criteria."
+msgstr "Нет видеозаписей, отвечающих вашим критериям."
+
+#: widgets.php:10
+msgid "Widget Template"
+msgstr "Шаблон виджета"
+
+#: library/admin/about.php:2
+msgid "About This Theme"
+msgstr "Об этой теме"
+
+#: library/admin/about.php:8
+msgid "Theme Description:"
+msgstr "Описание темы:"
+
+#: library/admin/about.php:12
+msgid "Theme Version:"
+msgstr "Версия темы:"
+
+#: library/admin/about.php:16
+msgid "Theme Documentation:"
+msgstr "Документация к теме:"
+
+#: library/admin/about.php:17
+msgid "Theme Documentation"
+msgstr "Документация к теме"
+
+#: library/admin/about.php:20
+msgid "Theme Support:"
+msgstr "Поддержка темы:"
+
+#: library/admin/about.php:21
+msgid "Get support for this theme"
+msgstr "Получить поддержку к этой теме"
+
+#: library/admin/about.php:21
+msgid "Visit the support forums."
+msgstr "Посмотреть форум поддержки."
+
+#: library/admin/general.php:3
+msgid "Select your theme settings"
+msgstr "Выберите ваши установки темы"
+
+#: library/admin/general.php:11
+msgid "Widget Inserts:"
+msgstr "Вставка виджета:"
+
+#: library/admin/general.php:16
+msgid "Select this if you want your primary widget inserts to default to the home insert when nothing else is selected."
+msgstr "Отметьте если хотите чтобы ваши основные виджеты по-умолчанию вставлялись в начало, если ничего другого не отмечено."
+
+#: library/admin/general.php:21
+msgid "Select this if you want your secondary widget inserts to default to the home insert when nothing else is selected."
+msgstr "Отметьте если хотите чтобы ваши дополнительные виджеты по-умолчанию вставлялись в начало, если ничего другого не отмечено."
+
+#: library/admin/general.php:28
+msgid "Stylesheets:"
+msgstr "Стили:"
+
+#: library/admin/general.php:33
+msgid "Select this to have the theme automatically include a print stylesheet."
+msgstr "Отметьте, для того чтобы автоматически добавлять таблицу стилей для печати."
+
+#: library/admin/general.php:40
+msgid "JavaScript:"
+msgstr "JavaScript:"
+
+#: library/admin/general.php:45
+msgid "Include the pull quote JavaScript."
+msgstr "Использовать выдержки из JavaScript."
+
+#: library/admin/general.php:52
+msgid "Feeds:"
+msgstr "Ленты:"
+
+#: library/admin/general.php:57
+msgid "If you have a an alternate feed address, such as one from <a href=\"http://feedburner.com\" title=\"Feedburner\">Feedburner</a>, you can enter it here to have the theme set your feed URL link.  If blank, the theme will default to your WordPress RSS feed."
+msgstr "Если вы пользуетесь альтернативной лентой, например <a href=\"http://feedburner.com\" title=\"Feedburner\">Feedburner</a>, вы должны ввести ее адрес здесь. По-умолчанию используется RSS лента вашей установки WordPress."
+
+#: library/admin/general.php:63
+msgid "Title &amp; Meta:"
+msgstr "Заголовок &amp; Meta:"
+
+#: library/admin/general.php:68
+msgid "Use category slugs on single posts for your meta keywords?"
+msgstr "Использовать категории как meta keywords для постов?"
+
+#: library/admin/general.php:73
+msgid "Use tag slugs on single posts for your meta keywords?"
+msgstr "Использовать ключевые слова для постов как meta keywords?"
+
+#: library/admin/general.php:78
+msgid "Use the excerpt on single posts for your meta description?"
+msgstr "Использовать выдержку на странице поста как meta description?"
+
+#: library/admin/general.php:83
+msgid "Use the author bio on author archives for your meta description?"
+msgstr "Использовать сведения об авторе на странице архива автора (meta description)?"
+
+#: library/admin/general.php:88
+msgid "Use the category description on category archives for your meta description?"
+msgstr "Использовать описание категории в архивах категории как meta description?"
+
+#: library/admin/general.php:93
+msgid "Use the author's name on pages and posts as the meta author?"
+msgstr "Использовать имя автора в постах и страницах в теге meta author?"
+
+#: library/admin/general.php:98
+msgid "Append site title to the end of the page name?"
+msgstr "Добавить название сайта в конце названия страницы?"
+
+#: library/admin/general.php:101
+msgid "You can change these settings in the box labeled <em>Hybrid Settings</em> when writing a post or page."
+msgstr "Вы сможете изменить эти установки в поле с заголовком <em>Установки Hybrid</em> при написании поста или страницы."
+
+#: library/admin/general.php:101
+#, php-format
+msgid "The <a href=\"%1$s\" title=\"All-In-One SEO Pack\">All-In-One SEO Pack</a> and <a href=\"%2$s\" title=\"Headspace2\">Headspace2</a> plugins will override these settings and the Indexing settings."
+msgstr "Плагины <a href=\"%1$s\" title=\"All-In-One SEO Pack\">All-In-One SEO Pack</a> и <a href=\"%2$s\" title=\"Headspace2\">Headspace2</a> перезапишут эти установки и установки индексации."
+
+#: library/admin/general.php:108
+msgid "Indexing:"
+msgstr "Индексировать:"
+
+#: library/admin/general.php:111
+msgid "Choose which pages of your blog get indexed by the search engines. Only selected pages will be indexed.  If not selected, those pages will be blocked."
+msgstr "Выберите какие страницы вашего блога будут индексироваться поисковыми серверами. Только отмеченные страницы будут индексированы. Остальные будут блокироваться."
+
+#: library/admin/general.php:111
+msgid "Note: Some of these settings will render the Title &amp; Meta settings moot.  Also, setting your site to privacy mode will override these controls."
+msgstr "Замечание: Некоторые из этих установок будут отображаться в заголовке (Title) и в метатагах (Meta). Кроме этого, установка вашего сайта в частный (секретный) режим, перезапишет эти установки."
+
+#: library/admin/general.php:114
+msgid "Home page"
+msgstr "Главная"
+
+#: library/admin/general.php:117
+msgid "Single posts"
+msgstr "Одиночный пост"
+
+#: library/admin/general.php:120
+msgid "Attachments"
+msgstr "Вложения"
+
+#: library/admin/general.php:123
+msgid "Pages"
+msgstr "Страницы"
+
+#: library/admin/general.php:127
+msgid "Date-based archives"
+msgstr "Архивы по дате"
+
+#: library/admin/general.php:130
+msgid "Category archives"
+msgstr "Архивы категории"
+
+#: library/admin/general.php:133
+msgid "Tag archives"
+msgstr "Архивы ключевого слова"
+
+#: library/admin/general.php:136
+msgid "Author archives"
+msgstr "Архивы автора"
+
+#: library/admin/general.php:140
+#: library/functions/filters.php:268
+msgid "Search"
+msgstr "Искать"
+
+#: library/admin/general.php:143
+msgid "404"
+msgstr "404"
+
+#: library/admin/general.php:150
+msgid "Avatars:"
+msgstr "Юзерпики:"
+
+#: library/admin/general.php:155
+msgid "You can set a default avatar for users without one if you don't like the choices WordPress offers you. Simply add the full path to the image file."
+msgstr "Вы можете установить пользовательский юзерпик по-умолчанию, если не подходит предоставленный WordPress'ом. Просто введите полный путь к картинке."
+
+#: library/admin/general.php:161
+msgid "Comments:"
+msgstr "Комментарии:"
+
+#: library/admin/general.php:166
+msgid "Check to use the comments popup window instead of regular comments."
+msgstr "Отметьте для использования поп-ап окна комментариев, вместо обычных комментариев."
+
+#: library/admin/general.php:166
+msgid "WP 2.7+ only."
+msgstr "Только для WP 2.7+."
+
+#: library/admin/general.php:173
+msgid "Footer Insert:"
+msgstr "Вставить в подвал:"
+
+#: library/admin/general.php:178
+msgid "You can place XHTML and JavaScript here to have it inserted automatically into your theme.  If you have a script, such as one from Google Analytics, this could be useful."
+msgstr "Вы можете вставить XHTML и JavaScript здесь, чтобы они автоматически загружались в вашу тему. Если у вас есть скрипт, например Google Analytics, это будет удобно."
+
+#: library/admin/general.php:184
+msgid "Footer Settings:"
+msgstr "Установки подвала:"
+
+#: library/admin/general.php:189
+msgid "Check this if you want the theme to auto-generate your site's copyright and title in the footer."
+msgstr "Отметьте, если хотите чтобы в подвале автоматически отображался копирайт и название сайта."
+
+#: library/admin/general.php:194
+msgid "Want to show your love of WordPress?  Check this and a link will be added to your footer back to WordPress.org."
+msgstr "Хотите показать свою любовь к WordPress? Отметьте и ссылка на WordPress.org появится в подвале."
+
+#: library/admin/general.php:199
+msgid "Check this to have a link back to Theme Hybrid automatically appended to your footer.  This is totally optional.  Really."
+msgstr "Отметьте, если хотите чтобы ссылка на тему Hybrid отображалась в подвале."
+
+#: library/admin/general.php:204
+msgid "For testing purposes, this will append a database query counter and page load timer to your footer."
+msgstr "Для целей тестирования, это добавит счетчик запросов к БД и таймер загрузки страницы в подвал."
+
+#: library/admin/meta-box.php:18
+#: library/admin/meta-box.php:19
+#: library/admin/theme-settings.php:16
+msgid "Hybrid Settings"
+msgstr "Настройки Hybrid"
+
+#: library/admin/meta-box.php:38
+#: library/admin/meta-box.php:93
+#: library/admin/meta-box.php:101
+#: library/admin/meta-box.php:109
+msgid "Add a title that will be seen by search engines."
+msgstr "Введите заголовок для поисковых систем."
+
+#: library/admin/meta-box.php:43
+#: library/admin/meta-box.php:98
+msgid "Description"
+msgstr "Описание"
+
+#: library/admin/meta-box.php:46
+msgid "Add a description that will be seen by search engines."
+msgstr "Введите описание, которое будет видно поисковым системам."
+
+#: library/admin/meta-box.php:51
+#: library/admin/meta-box.php:106
+msgid "Keywords:"
+msgstr "Ключевые слова:"
+
+#: library/admin/meta-box.php:54
+msgid "Add keywords that will be seen by search engines."
+msgstr "Введите ключевые слова, которые будут видны поисковым системам."
+
+#: library/admin/meta-box.php:59
+msgid "Series:"
+msgstr "Серии:"
+
+#: library/admin/meta-box.php:62
+msgid "Post the title of your series of articles here."
+msgstr "Напишите название вашей серии статей здесь,"
+
+#: library/admin/meta-box.php:67
+msgid "Thumbnail:"
+msgstr "Превью:"
+
+#: library/admin/meta-box.php:70
+msgid "Add an image URL here."
+msgstr "Добавить ссылку на картинку здесь"
+
+#: library/admin/theme-settings-admin.php:12
+#: library/functions/filters.php:335
+msgid "Hybrid"
+msgstr "Hybrid"
+
+#: library/admin/theme-settings-admin.php:13
+#: library/admin/theme-settings.php:16
+msgid "Hybrid Theme Settings"
+msgstr "Настройки темы Hybrid"
+
+#: library/admin/theme-settings-admin.php:102
+msgid "Settings saved."
+msgstr "Настройки сохранены."
+
+#: library/admin/theme-settings-xhtml.php:27
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: library/functions/breadcrumbs.php:23
+msgid "Browse:"
+msgstr "Обзор:"
+
+#: library/functions/breadcrumbs.php:26
+#: library/functions/filters.php:113
+msgid "Home"
+msgstr "Все"
+
+#: library/functions/breadcrumbs.php:156
+#, php-format
+msgid "Search results for &quot;%1$s&quot"
+msgstr "Результаты поиска для &quot;%1$s&quot"
+
+#: library/functions/breadcrumbs.php:169
+msgid "m"
+msgstr "m"
+
+#: library/functions/breadcrumbs.php:169
+#: library/functions/breadcrumbs.php:194
+msgid "F"
+msgstr "F"
+
+#: library/functions/breadcrumbs.php:170
+msgid "j"
+msgstr "j"
+
+#: library/functions/breadcrumbs.php:182
+#, php-format
+msgid "Week %1$s"
+msgstr "Неделя %1$s"
+
+#: library/functions/breadcrumbs.php:209
+#: library/functions/functions.php:379
+msgid "404 Not Found"
+msgstr "404 Не найдено"
+
+#: library/functions/comments.php:83
+msgid "Reply"
+msgstr "Ответить"
+
+#: library/functions/comments.php:84
+msgid "Log in to reply."
+msgstr "Войдите для того чтобы оставить ответ."
+
+#: library/functions/deprecated.php:197
+#: library/functions/deprecated.php:208
+msgid "This function has been removed or replaced by another function."
+msgstr "Эта функция была удалена или заменена другой."
+
+#: library/functions/filters.php:52
+msgid "You can use these <acronym title=\"Extensible Hypertext Markup Language\">XHTML</acronym> tags&#58;"
+msgstr "Вы можете использовать следующие таги <acronym title=\"Расширенный Язык Разметки Гипертекста\">XHTML</acronym> &#58;"
+
+#: library/functions/filters.php:262
+msgid "Search this site..."
+msgstr "Поиск по сайту..."
+
+#: library/functions/filters.php:305
+msgid "Copyright"
+msgstr "Все права защищены"
+
+#: library/functions/filters.php:329
+msgid "Powered by"
+msgstr "Работает на"
+
+#: library/functions/filters.php:331
+msgid "Powered by WordPress, state-of-the-art semantic personal publishing platform"
+msgstr "Работает на WordPress, современной семантической платформе для публикации"
+
+#: library/functions/filters.php:331
+msgid "WordPress"
+msgstr "WordPress"
+
+#: library/functions/filters.php:333
+msgid "and"
+msgstr "и"
+
+#: library/functions/filters.php:335
+msgid "Hybrid Theme Framework"
+msgstr "Hybrid Theme Framework"
+
+#: library/functions/functions.php:22
+msgid "Articles in this series"
+msgstr "Статьи в этой серии."
+
+#: library/functions/functions.php:165
+msgid "You have encountered an error. This is usually because you've changed something in the core Hybrid theme files. Try undoing your last edit to correct this issue. If this doesn't resolve it, head over to the support forums for help."
+msgstr "Вы столкнулись с ошибкой. Обычно это происходит из-за того что вы внесли изменения в основные файлы темы Hybrid. Попробуйте отменить последнее изменение чтобы исправить эту проблему. Если не поможет, обращайтесь на форум поддержки."
+
+#: library/functions/functions.php:206
+#, php-format
+msgid "This page loaded in %1$s seconds with %2$s database queries."
+msgstr "Эта страница загрузилась за %1$s секунд с %2$s запросами к БД."
+
+#: library/functions/functions.php:305
+#: library/functions/functions.php:311
+#: library/functions/functions.php:324
+#: library/functions/functions.php:330
+#: library/functions/functions.php:336
+#: library/functions/functions.php:342
+#: library/functions/functions.php:348
+#: library/functions/functions.php:354
+#: library/functions/functions.php:360
+#: library/functions/functions.php:366
+#: library/functions/functions.php:372
+#, php-format
+msgid ": Page %1$s"
+msgstr ": Страница %1$s"
+
+#: library/functions/functions.php:346
+#, php-format
+msgid "Search results for &quot;%1$s.&quot;"
+msgstr "Результаты поиска для &quot;%1$s.&quot;"
+
+#: library/functions/functions.php:352
+#: library/functions/functions.php:364
+#: library/functions/functions.php:370
+#, php-format
+msgid "Archive for %1$s"
+msgstr "Архив для %1$s"
+
+#: library/functions/functions.php:358
+#, php-format
+msgid "Archive for week %1$s of %2$s"
+msgstr "Архив недели %1$s из %2$s"
+
+#: library/functions/functions.php:376
+#, php-format
+msgid "Comment on &quot;%1$s&quot;"
+msgstr "Комментарий на &quot;%1$s&quot;"
+
+#: library/functions/primary.php:13
+#: library/functions/primary.php:33
+#: library/functions/primary.php:53
+#: library/functions/primary.php:63
+#: library/functions/template-functions.php:391
+#: library/functions/widgets.php:45
+msgid "Primary Home"
+msgstr "Основное Начало"
+
+#: library/functions/primary.php:15
+#: library/functions/widgets.php:46
+msgid "Primary Author"
+msgstr "Основной Автор"
+
+#: library/functions/primary.php:17
+#: library/functions/widgets.php:47
+msgid "Primary Category"
+msgstr "Основная Категория"
+
+#: library/functions/primary.php:19
+#: library/functions/widgets.php:48
+msgid "Primary Date"
+msgstr "Основная Дата"
+
+#: library/functions/primary.php:23
+#: library/functions/widgets.php:49
+msgid "Primary Page"
+msgstr "Основная Страница"
+
+#: library/functions/primary.php:25
+#: library/functions/widgets.php:51
+msgid "Primary Search"
+msgstr "Основной Поиск"
+
+#: library/functions/primary.php:27
+#: library/functions/widgets.php:52
+msgid "Primary Single"
+msgstr "Основная Одиночная"
+
+#: library/functions/primary.php:29
+#: library/functions/widgets.php:50
+msgid "Primary Tag"
+msgstr "Основной Тэг"
+
+#: library/functions/primary.php:31
+#: library/functions/widgets.php:53
+msgid "Primary 404"
+msgstr "Основная 404"
+
+#: library/functions/secondary.php:13
+#: library/functions/secondary.php:33
+#: library/functions/secondary.php:53
+#: library/functions/secondary.php:63
+#: library/functions/template-functions.php:400
+#: library/functions/widgets.php:75
+msgid "Secondary Home"
+msgstr "Дополнительное Начало"
+
+#: library/functions/secondary.php:15
+#: library/functions/widgets.php:76
+msgid "Secondary Author"
+msgstr "Дополнительный Автор"
+
+#: library/functions/secondary.php:17
+#: library/functions/widgets.php:77
+msgid "Secondary Category"
+msgstr "Дополнительная Категория"
+
+#: library/functions/secondary.php:19
+#: library/functions/widgets.php:78
+msgid "Secondary Date"
+msgstr "Дополнительная Дата"
+
+#: library/functions/secondary.php:23
+#: library/functions/widgets.php:79
+msgid "Secondary Page"
+msgstr "Дополнительная Страница"
+
+#: library/functions/secondary.php:25
+#: library/functions/widgets.php:82
+msgid "Secondary Search"
+msgstr "Дополнительный Поиск"
+
+#: library/functions/secondary.php:27
+#: library/functions/widgets.php:80
+msgid "Secondary Single"
+msgstr "Дополнительная Одиночная запись"
+
+#: library/functions/secondary.php:29
+#: library/functions/widgets.php:81
+msgid "Secondary Tag"
+msgstr "Дополнительноый Тэг"
+
+#: library/functions/secondary.php:31
+#: library/functions/widgets.php:83
+msgid "Secondary 404"
+msgstr "Дополнительная 404"
+
+#: library/functions/subsidiary.php:12
+#: library/functions/subsidiary.php:32
+#: library/functions/subsidiary.php:42
+msgid "Subsidiary Default"
+msgstr "По-умолчанию"
+
+#: library/functions/template-functions.php:220
+msgid "RSS 2.0"
+msgstr "RSS 2.0"
+
+#: library/functions/template-functions.php:221
+msgid "RSS .92"
+msgstr "RSS .92"
+
+#: library/functions/template-functions.php:222
+msgid "Atom 0.3"
+msgstr "Atom 0.3"
+
+#: library/functions/template-functions.php:409
+msgid "Subsidiary Home"
+msgstr "Начало"
+
+#: library/functions/template-functions.php:486
+msgid "Previous Page"
+msgstr "Предыдущая страница"
+
+#: library/functions/template-functions.php:487
+msgid "Next Page"
+msgstr "Следующая страница"
+
+#: library/functions/template-functions.php:512
+msgid "Related Posts"
+msgstr "Похожие поств"
+
+#: library/legacy/legacy.comments.php:105
+msgid "Logout"
+msgstr "Выйти"
+
+#: library/widgets/archives.php:56
+msgid "Select Year"
+msgstr "Выбрать год"
+
+#: library/widgets/archives.php:58
+msgid "Select Month"
+msgstr "Выбрать месяц"
+
+#: library/widgets/archives.php:60
+msgid "Select Week"
+msgstr "Выбрать неделю"
+
+#: library/widgets/archives.php:62
+msgid "Select Day"
+msgstr "Выбрать день"
+
+#: library/widgets/archives.php:64
+msgid "Select Post"
+msgstr "Выбрать пост"
+
+#: library/widgets/archives.php:188
+#: library/widgets/categories.php:205
+#: library/widgets/pages.php:191
+#: library/widgets/search.php:163
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: library/widgets/archives.php:194
+msgid "Type:"
+msgstr "Тип:"
+
+#: library/widgets/archives.php:207
+msgid "Format:"
+msgstr "Формат:"
+
+#: library/widgets/archives.php:218
+#: library/widgets/bookmarks.php:293
+msgid "Limit:"
+msgstr "Лимит:"
+
+#: library/widgets/archives.php:224
+msgid "Before:"
+msgstr "До:"
+
+#: library/widgets/archives.php:230
+msgid "After:"
+msgstr "После:"
+
+#: library/widgets/archives.php:237
+msgid "Show post count?"
+msgstr "Показывать счетчик постов?"
+
+#: library/widgets/archives.php:260
+msgid "An advanced widget that gives you total control over the output of your archives."
+msgstr "Продвинутый виджет, который позволяет вам контролировать вывод архивов."
+
+#: library/widgets/archives.php:269
+msgid "Archives"
+msgstr "Архивы"
+
+#: library/widgets/bookmarks.php:83
+#: library/widgets/bookmarks.php:428
+msgid "Bookmarks"
+msgstr "Закладки"
+
+#: library/widgets/bookmarks.php:234
+msgid "Categories:"
+msgstr "Категории:"
+
+#: library/widgets/bookmarks.php:241
+msgid "Exclude Categories:"
+msgstr "Исключить категории:"
+
+#: library/widgets/bookmarks.php:252
+msgid "Category:"
+msgstr "Категория:"
+
+#: library/widgets/bookmarks.php:266
+msgid "Category Order:"
+msgstr "Категории отсортированы по:"
+
+#: library/widgets/bookmarks.php:277
+msgid "Order Categories By:"
+msgstr "Сортировать категории по:"
+
+#: library/widgets/bookmarks.php:300
+msgid "Include Bookmarks:"
+msgstr "Включить закладки:"
+
+#: library/widgets/bookmarks.php:307
+msgid "Exclude Bookmarks:"
+msgstr "Исключить закладки:"
+
+#: library/widgets/bookmarks.php:314
+msgid "Bookmarks Order:"
+msgstr "Порядок закладок:"
+
+#: library/widgets/bookmarks.php:325
+msgid "Order Bookmarks By:"
+msgstr "Сортировать закладки по:"
+
+#: library/widgets/bookmarks.php:350
+msgid "Between (Bookmark/Description):"
+msgstr "Между (закладка/описание):"
+
+#: library/widgets/bookmarks.php:357
+msgid "Categorize?"
+msgstr "Категоризировать?"
+
+#: library/widgets/bookmarks.php:363
+msgid "Show description?"
+msgstr "Показывать описание?"
+
+#: library/widgets/bookmarks.php:369
+msgid "Hide invisible bookmarks?"
+msgstr "Скрывать невидимые закладки?"
+
+#: library/widgets/bookmarks.php:375
+msgid "Show private categories?"
+msgstr "Показывать защищенные категории?"
+
+#: library/widgets/bookmarks.php:381
+msgid "Show rating?"
+msgstr "Показывать рейтинг?"
+
+#: library/widgets/bookmarks.php:387
+msgid "Show updated?"
+msgstr "Показывать обновленные?"
+
+#: library/widgets/bookmarks.php:393
+msgid "Show images?"
+msgstr "Показывать картинки?"
+
+#: library/widgets/bookmarks.php:419
+msgid "An advanced widget that gives you total control over the output of your bookmarks (links)."
+msgstr "Продвинутый виджет, позволяющий взять в свои руки контроль над выводом закладок (ссылок)."
+
+#: library/widgets/categories.php:43
+msgid "RSS"
+msgstr "RSS"
+
+#: library/widgets/categories.php:211
+#: library/widgets/pages.php:197
+msgid "Order By:"
+msgstr "Сортировка по:"
+
+#: library/widgets/categories.php:223
+msgid "Order:"
+msgstr "Порядок:"
+
+#: library/widgets/categories.php:233
+#: library/widgets/pages.php:229
+msgid "Exclude:"
+msgstr "Исключить:"
+
+#: library/widgets/categories.php:239
+#: library/widgets/pages.php:235
+msgid "Include:"
+msgstr "Включить:"
+
+#: library/widgets/categories.php:245
+#: library/widgets/pages.php:223
+msgid "Depth:"
+msgstr "Глубина:"
+
+#: library/widgets/categories.php:253
+msgid "Number:"
+msgstr "Число:"
+
+#: library/widgets/categories.php:259
+#: library/widgets/pages.php:243
+msgid "Child Of:"
+msgstr "Наследник от:"
+
+#: library/widgets/categories.php:265
+msgid "Feed Image:"
+msgstr "Картинка ленты:"
+
+#: library/widgets/categories.php:272
+#: library/widgets/pages.php:262
+msgid "Hierarchical?"
+msgstr "Иерархически?"
+
+#: library/widgets/categories.php:278
+msgid "Show RSS feed?"
+msgstr "Показывать RSS ленту?"
+
+#: library/widgets/categories.php:284
+msgid "Use description for title?"
+msgstr "Использовать описание для заголовка?"
+
+#: library/widgets/categories.php:290
+msgid "Show last updated?"
+msgstr "Показывать последнее обновление?"
+
+#: library/widgets/categories.php:296
+msgid "Show count?"
+msgstr "Показывать счетчик?"
+
+#: library/widgets/categories.php:302
+msgid "Hide empty?"
+msgstr "Скрывать пустые?"
+
+#: library/widgets/categories.php:326
+msgid "An advanced widget that gives you total control over the output of your category links."
+msgstr "Продвинутый виджет, позволяющий взять в свои руки контроль над выводом ссылок категорий."
+
+#: library/widgets/categories.php:335
+msgid "Categories"
+msgstr "Категории:"
+
+#: library/widgets/pages.php:213
+msgid "Sort Order:"
+msgstr "Порядок сортировки:"
+
+#: library/widgets/pages.php:249
+msgid "Meta Key:"
+msgstr "Ключ Мета:"
+
+#: library/widgets/pages.php:255
+msgid "Meta Value:"
+msgstr "Значение Мета:"
+
+#: library/widgets/pages.php:268
+msgid "Show home?"
+msgstr "Показывать начало?"
+
+#: library/widgets/pages.php:274
+msgid "Show date?"
+msgstr "Показывать дату?"
+
+#: library/widgets/pages.php:298
+msgid "An advanced widget that gives you total control over the output of your page links."
+msgstr "Продвинутый виджет, позволяющий взять в свои руки контроль над выводом ссылок на страницы."
+
+#: library/widgets/search.php:169
+msgid "Search Label:"
+msgstr "Ярлык поиска:"
+
+#: library/widgets/search.php:175
+msgid "Search Text:"
+msgstr "Искать текст:"
+
+#: library/widgets/search.php:181
+msgid "Submit Text:"
+msgstr "Отправить текст:"
+
+#: library/widgets/search.php:188
+msgid "Use theme's search form?"
+msgstr "Использовать форму поиска из темы?"
+
+#: library/widgets/search.php:211
+msgid "An advanced widget that gives you total control over the output of your search form."
+msgstr "Продвинутый виджет, позволяющий взять в свои руки контроль над выводом формы поиска."
+
+#: library/widgets/tags.php:218
+msgid "Largest:"
+msgstr "Больше:"
+
+#: library/widgets/tags.php:224
+msgid "Smallest:"
+msgstr "Меньше:"
+
+#: library/widgets/tags.php:230
+msgid "Unit:"
+msgstr "Unit:"
+
+#: library/widgets/tags.php:273
+msgid "An advanced widget that gives you total control over the output of your tags."
+msgstr "Продвинутый виджет, позволяющий взять в свои руки контроль над выводом ключевых слов."
+
+#: functions.php:29
+msgid "Read"
+msgstr "Прочитать"
+
+#: ../functions.php:46
+msgid "Login"
+msgstr "Войти"
+
+

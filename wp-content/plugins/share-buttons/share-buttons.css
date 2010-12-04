@@ -1,0 +1,76 @@
+.wrap {
+    width: 100%;
+    float: left;
+    margin-right: -160px;
+    background:#fff;
+}
+.fieldset_image {
+    margin-left:10px;
+    border:1px solid #eee;
+    width:700px;
+}
+
+.fieldset_position {
+    margin-left:10px;
+    border:1px solid #eee;
+    width:700px;
+}
+
+.fieldset_social {
+    margin-left:10px;    
+    border:1px solid #eee;
+    width:700px;
+}
+legend {
+    font-weight:bold;
+	font-size: 14px;
+	padding: 8px;
+	margin: 0px 0px 0px 10px;
+}
+.for_example {
+    width:680px;
+    margin: 10px;
+    padding:10px;
+    border:1px solid #eee;
+    font-weight:bold;
+    background:#eee;
+}
+.one_num {
+    float: left;
+    margin-top:8px;
+}
+.one_img {
+    float: left;
+    margin-left:5px;
+    margin-top:5px;
+}
+.two_num {
+    float: left;
+    margin-top:15px;    
+}
+.two_img {
+    float: left;
+    margin-left:5px;
+    margin-top:5px;    
+}
+.one_img img, .two_img img, .three_img img {
+    border:1px solid #bbb;
+}
+.three_num {
+    float: left;
+    margin-top:8px;    
+}
+.three_img {
+    float: left;
+    margin-left:5px;
+    margin-top:5px;    
+}
+.head_social {
+    margin-left:10px;
+    font-weight:bold;
+}
+.body_social {
+    margin-left:20px;
+    width:600px;
+    padding:10px;
+}

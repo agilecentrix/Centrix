@@ -1,0 +1,21 @@
+#body-container{margin: 20px 50px 20px 50px; width: auto;}
+#container {width: 100%;}
+#content {width: 73%;}
+.hentry {border: 1px solid #DDDDDD; padding: 20px;}
+#primary {width: 25%;}
+#header-container {width: 100%;}
+#footer-container {width: 100%;}
+#utility-before-content{width: auto;}
+textarea, input { border: 1px solid #CCCCCC;}
+.entry-title a {color: #21759B; text-decoration: underline;}
+
+#site-title {height: 48px;	background: url(images/logo.jpg) no-repeat 0 0;}
+#site-title a {position: relative; left: 60px; top: 5px;}
+#site-description {display: none;}
+
+#header-auth-info-container {position: absolute; right:20px; top: 20px;}
+#header-auth-info-container  a:visited{color: #21759B;}
+
+
+#login .content {float: none; margin: 0px auto;}
+#login .text-input {padding: 10px 6px;}

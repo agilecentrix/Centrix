@@ -1,0 +1,31 @@
+table.container {
+    width: 100%;
+}
+
+table.list {
+    border: medium solid #6495ed;
+    border-collapse: collapse;
+    width: 100%;
+    height: 100%;
+}
+
+table.list th {
+    font-family: monospace;
+    border-bottom: thin solid #6495ed;
+    border-top: thin solid #6495ed;
+    padding: 5px;
+    background-color: #D0E3FA;
+}
+
+table.list td {
+    font-family: sans-serif;
+    border-bottom: thin solid #6495ed;
+    border-top: thin solid #6495ed;
+    padding: 5px;
+    text-align: center;
+    background-color: #ffffff;
+}
+
+table.list caption {
+    font-family: sans-serif;
+}
